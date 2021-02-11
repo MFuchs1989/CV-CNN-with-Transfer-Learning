@@ -167,7 +167,7 @@ C:.
 
 ## Project Results
 
-The best model achieved a validation accuracy of over 91%.
+The best model achieved a validation accuracy of over 90%.
 
 ![results](images/results.png)
 
